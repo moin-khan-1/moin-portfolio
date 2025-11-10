@@ -1,0 +1,121 @@
+#navbar {
+    /* border: 2px solid black; */
+    width: 100%;
+    height: 100px;
+
+}
+
+#Logo {
+    /* border: 2px solid purple; */
+    display: inline-block;
+    font-size: 10px;
+    padding: 10px;
+}
+
+#List {
+    /* border: 2px solid purple; */
+    display: inline-block;
+    margin-left: 300px;
+
+
+}
+
+#List>ul> {
+    display: inline-block;
+
+}
+
+#List>ul>li {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 30px;
+
+
+
+}
+
+ul>li:hover {
+    border-radius: 5px;
+    background-color: rgb(100, 118, 132)
+}
+
+
+ul>button {
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: rgb(47, 61, 61);
+    border-width: none;
+    border-style: none;
+    background-color: rgb(147, 147, 240);
+    font-size: larger;
+}
+
+
+#Logo>img {
+    display: inline-block;
+}
+
+#Logo>h1 {
+    font-size: 3em;
+    display: inline-block;
+}
+
+#great {
+    /* border: 1px solid red; */
+    display: inline-block;
+    padding-left: 20px;
+    /* background-color: beige; */
+    color: rgb(111, 111, 156);
+    width: 50%;
+    border-radius: 10px;
+
+}
+
+#hafiz {
+    padding: auto;
+    font-size: 60px;
+}
+
+#para {
+    margin-top: 10px;
+    font-size: 30px;
+    width: 60%;
+    height: 200px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#contact {
+    font-size: 17px;
+    padding: 15px 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-style: none;
+    background-color: rgb(140, 188, 92);
+    color: azure;
+}
+
+#me {
+    display: inline-block;
+    /* border: solid 1px red; */
+    width: 40%;
+    border-radius: 10px;
+
+
+}
+
+#pic {
+
+    /* display: inline-block; */
+    margin-left: 60px;
+    padding-bottom: 12px;
+
+
+
+
+}
+
+a {
+    text-decoration: none;
+}

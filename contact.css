@@ -1,0 +1,28 @@
+#mid {
+
+    /* width: 1000PX; */
+    font-size: 25px;
+    text-align: center;
+    border-radius: 50px;
+    /* border: solid brown 2px; */
+    width: 1000px;
+    padding: 20px 20px;
+    margin: 5px 100px;
+    color: rgb(20, 20, 83);
+    background-color: rgb(130, 170, 170);
+
+}
+
+#but {
+    border-radius: 10px 10px;
+    background-color: rgb(150, 150, 201);
+    border: none;
+    border-style: none;
+    /* padding-left: 5px; */
+    margin-left: 45px;
+}
+
+#hafiz {
+    margin-right: 800px;
+    color: black;
+}

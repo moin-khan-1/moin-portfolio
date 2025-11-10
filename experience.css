@@ -1,0 +1,72 @@
+#head {
+    /* border: solid black 2px; */
+    color: rgb(15, 48, 210);
+    background-color: rgb(191, 229, 230);
+    border-radius: 15px;
+}
+
+#skills {
+    /* text-decoration: underline; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    /* border: solid black 1px; */
+    display: inline-block;
+    width: 47%;
+    margin: 5px 0px 0px 10px;
+    padding: 75px 0px 50px 20px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgb(102, 172, 172);
+}
+
+#edu {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    /* border: solid black 1px; */
+    display: inline-block;
+    width: 49%;
+    margin: 2px 0px 0px 5px;
+    margin-top: 5px;
+    text-align: center;
+    padding: 0px 0px 50px;
+    border-radius: 15px;
+    background-color: rgb(102, 172, 172);
+}
+
+#hobb {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    /* border: solid black 1px; */
+    display: inline-block;
+    width: 46.3%;
+    margin: 10px 0px 5px 10px;
+    padding: 50px 0px 50px 30px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgb(102, 172, 172);
+}
+
+#prof {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    /* border: solid black 1px; */
+    display: inline-block;
+    width: 46.5%;
+    padding: 87.5px 0px 50px 30px;
+    margin: 8px 0px 0px 5px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgb(102, 172, 172);
+}
+
+#exp {
+    text-align: center;
+    color: aqua;
+    margin: 0px 500px 0px 560px;
+    font-size: 17px;
+    border-radius: 15px 15px;
+    padding: 10px 10px;
+    background-color: rgb(112, 171, 171);
+    /* border-style: none; */
+    border: none;
+}
